@@ -1,5 +1,6 @@
 # Developers-Hub-Cybersecurity-Internship
 This Repo Contain Reports and Data of my Internship
+delivery.js and login.js are just demo files of sourxe code of Juice Shop
 
 > ⚠️ This repository does not contain the full OWASP Juice Shop source code.  
 > The original application can be found here:  
