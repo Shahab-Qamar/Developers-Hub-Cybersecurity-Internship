@@ -1,5 +1,12 @@
 # Developers-Hub-Cybersecurity-Internship
 This Repo Contain Reports and Data of my Internship
+
+> ⚠️ This repository does not contain the full OWASP Juice Shop source code.  
+> The original application can be found here:  
+> [https://github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)  
+
+This repository contains **only modified files, configurations, and documentation** created during my internship for security improvements.
+
 # 🔐 DevelopersHub Corporation – Cybersecurity Internship (3 Weeks)
 
 ## 📌 About the Repository  
